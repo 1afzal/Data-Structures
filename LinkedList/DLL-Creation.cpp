@@ -25,11 +25,6 @@ class Node
 
 int main()
 {
-    int A[] = {}
-
-
-
-
-
+    int A[] = {10,20,30,40};
     return 0;
 }

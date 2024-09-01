@@ -55,7 +55,7 @@ int main()
 
     Node* head = ConvertArrToDLL(A);
     cout<<endl;
-    cout<<Print(head);
+    cout<<PrintDLL(head);
     
     //cout<<head->val;
 
